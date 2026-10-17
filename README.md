@@ -26,6 +26,9 @@ My background combines **Data Engineering** with strong experience in **Data Vis
 
 ## Featured Projects
 
+### [AWS SRO Data Pipeline](https://github.com/olived/aws-sro-data-pipeline)
+AWS Data Engineering proof of concept for insurance policy and endorsement processing, using EventBridge Scheduler, Step Functions, Glue, S3, and Athena.
+
 ### [Revenue & Retention Dashboard](https://github.com/olived/powerbi-dashboard-revenue-retention)
 Interactive Power BI dashboard for revenue, channel, product, and customer retention analysis.
 
